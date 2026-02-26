@@ -119,4 +119,5 @@ The feature selection techniques used are:
 
 
 # RESULT:
-      
+     
+     Thus the the given data is performed Feature Scaling and Feature Selection process and saved the data to a file successfully. 
